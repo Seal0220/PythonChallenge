@@ -1,3 +1,5 @@
+# http://www.pythonchallenge.com/pc/def/channel.html
+
 import re, zipfile
 
 comments = []

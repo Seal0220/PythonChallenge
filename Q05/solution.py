@@ -1,3 +1,5 @@
+# http://www.pythonchallenge.com/pc/def/peak.html
+
 import pickle
 
 with open('banner.p', 'r') as banner:
